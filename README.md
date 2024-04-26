@@ -4,7 +4,7 @@
 
 Screeshot : 
 
-# Client Side :
+# Customer Side :
 ![Screenshot 2024-04-26 105518](https://github.com/SaranshGupta6/SGKART_Ecommerce_App/assets/83112564/f26cf274-f10a-4b89-8087-826c87c1fa3f)
 ![Screenshot 2024-04-26 110159](https://github.com/SaranshGupta6/SGKART_Ecommerce_App/assets/83112564/985059c0-9f68-416d-9138-cf2886d6adda)
 ![Screenshot 2024-04-26 105937](https://github.com/SaranshGupta6/SGKART_Ecommerce_App/assets/83112564/90e084c3-02a9-4a2f-ac3e-715e3eb07396)
@@ -20,3 +20,10 @@ Screeshot :
 ![Screenshot 2024-04-26 110317](https://github.com/SaranshGupta6/SGKART_Ecommerce_App/assets/83112564/e4b8d306-0525-442b-afee-ca62a0a3965c)
 ![Screenshot 2024-04-26 110255](https://github.com/SaranshGupta6/SGKART_Ecommerce_App/assets/83112564/c9df472c-8dee-4544-be9c-b2c9f8489c04)
 ![Screenshot 2024-04-26 110226](https://github.com/SaranshGupta6/SGKART_Ecommerce_App/assets/83112564/8f6f259c-7073-4576-b016-4841905b5b2a)
+
+# Admin Side :
+![Screenshot 2024-04-26 111036](https://github.com/SaranshGupta6/SGKART_Ecommerce_App/assets/83112564/c3d3a294-d437-4b59-a1a3-0f8dca7736b8)
+![Screenshot 2024-04-26 110842](https://github.com/SaranshGupta6/SGKART_Ecommerce_App/assets/83112564/dcac7992-c034-4a55-bcb4-7f670d65e8e2)
+![Screenshot 2024-04-26 111343](https://github.com/SaranshGupta6/SGKART_Ecommerce_App/assets/83112564/3c34e440-222b-49ac-917f-6986bb2bd9cd)
+![Screenshot 2024-04-26 111243](https://github.com/SaranshGupta6/SGKART_Ecommerce_App/assets/83112564/6d809d68-3030-4c37-8903-fda84a3e934c)
+![Screenshot 2024-04-26 111103](https://github.com/SaranshGupta6/SGKART_Ecommerce_App/assets/83112564/2b0fd123-2243-4bfc-a4d5-7c3d854d2575)
